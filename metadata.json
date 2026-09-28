@@ -1,0 +1,6 @@
+{
+  "name": "Harrods | A Curated World Awaits",
+  "description": "Explore the world's most exceptional luxury department store: fashion, fine jewellery & watches, beauty, food & wine, and bespoke experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
